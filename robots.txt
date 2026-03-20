@@ -1,5 +1,1 @@
-User-agent: *
-
-Disallow: /norobots/
-
-Sitemap: /sitemap.xml
+Sitemap: https://www.harvest2cook.com/sitemap.xml
